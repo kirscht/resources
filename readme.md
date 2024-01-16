@@ -43,6 +43,7 @@
 - People
     - katie nicole red canary technologies[Bing](https://www.bing.com/search?q=katie+nicole+red+canary+technologies&qs=NWU&pq=katie+nicole+red+canary&sk=NW2NWB1&sc=6-23&cvid=EBF1E38C359C45FEB93BF95360C716CD&FORM=QBRE&sp=4&ghc=1&lq=0)
     - robert lee security[Bing](https://www.bing.com/search?pglt=41&q=robert+lee+security&cvid=a45426b8a1da4135bbf6876f943e3ad3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQRRj8VdIBCDUyMzhqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
+    - [Podcast: Know Your Adversaries and Where They Trade, To Stop Cyber Attacks](https://www.brighttalk.com/webcast/19179/601913?utm_source=brighttalk-sharing&utm_medium=web&utm_campaign=linkshare)
 
 ## Week 2 - (GRC) Governance, Risk Management, & Compliance ##
 
