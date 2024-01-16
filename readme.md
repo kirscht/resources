@@ -71,7 +71,9 @@
 
 ## Week 13 - Cloud Security ##
 -   Edge Setup
-    - Manage Profiles [Profiles](edge://settings/profiles)    
+    - Manage Profiles [Profiles](edge://settings/profiles)
+- Cloud Security
+    - [Virtual Network Service Tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)     
 
 ## Week 15 Web Vulnerabilities and Hardening ##
 - Resources
