@@ -15,6 +15,9 @@
     - This Week in Tech [TWIT](https://twit.tv/)
     - Security Now [TWIT](https://twit.tv/shows/security-now)
     - True stories from the dark side of the internet[Darknet Diaries](https://darknetdiaries.com/)
+    - [Qualys Security BLOG](https://blog.qualys.com/) [*](https://www.bing.com/search?pglt=41&q=qualys+security+blog&cvid=1ea25d1c1cd44f22a8a97f42c83e89c2&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGEDSAQg1NTMzajBqMagCALACAA&FORM=ANNTA1&PC=U531&ntref=1)
+    - [0xffsec Handbook - The Pentester's Guide](https://0xffsec.com/handbook/)
+    - [The dark side of Microsoft Remote Procedure Call protocols](https://redcanary.com/blog/msrpc-to-attack/) [MSRPC Attacks](https://www.bing.com/search?pglt=41&q=msrpc+attacks&cvid=f3b6a00b1d0e4813a43047e1ebff9f0f&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzExOWowajGoAgCwAgA&FORM=ANNTA1&PC=U531)
 - Certifications & Technical
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
     - Offensive Security Certified Professional[Wikipedia]https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
@@ -68,6 +71,11 @@
     - Linux Boot Process: [Neosmart](https://neosmart.net/wiki/mbr-boot-process/)
     - The Linux Booting Process - 6 Steps Described in Detail: [Freecode Camp](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
     - What Is the Bash Shell, and Why Is It So Important to Linux?: [HowtoGeek](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
+    - [What Is VDI and How Does It Work?](https://phoenixnap.com/kb/what-is-vdi-how-works)
+    - [CyberArk Library for Administrators](https://docs.cyberark.com/Idaptive/Latest/en/Content/Videos/Video-library-Admins.htm?tocpath=Video%20Library%7C_____1)
+    - [CyberArk Security Fundamentals](https://docs.cyberark.com/PAS/Latest/en/Content/Security/Security%20Fundamentals-Introduction.htm?tocpath=Security%7C_____1)
+    - [Microsoft Defender for Linux](https://www.bing.com/search?pglt=41&q=microsoft+defender+for+linux&cvid=ee174b7899864be39286db01e15f88db&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDY1NDdqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)
+    - [Security+ Boot Process](https://www.bing.com/search?pglt=41&q=security%2B+boot+process&cvid=617eca8290bf491ca42a01d1e071c021&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg5MDEzajBqMagCALACAA&FORM=ANNTA1&PC=U531)
 
 ## Week 13 - Cloud Security ##
 -   Edge Setup
