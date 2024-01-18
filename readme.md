@@ -22,6 +22,7 @@
     - [The Hacker News](https://thehackernews.com/)
     - [CyberNews](https://cybernews.com/news/)
     - [NBC Cyber Security](https://www.nbcnews.com/tech/cyber-security)
+    - [The Independent Cyber News](https://www.independent.co.uk/topic/cyber-security)
 - Certifications & Technical
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
     - Offensive Security Certified Professional[Wikipedia]https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
