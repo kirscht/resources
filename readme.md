@@ -59,10 +59,20 @@
     - Data Governance: The Definitive Guide, Author Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown
     - Enterprise Risk Management, 2nd Edition, Author John R. S. Fraser, Rob Quail, Betty Simkins
     - Information Security Governance Simplified, Author Todd Fitzgerald, ISBN 
-    - 
+    - [Cyber Underground Handbook: Outsmart Cybercriminals - Intel471](https://intel471.com/resources/cyber-underground-handbook)
 - Online Resources
     - Governance, risk management, and compliance [WikiPedia](https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance)
     - What is GRC? [IBM](https://www.ibm.com/topics/grc)
+- Cyber Kill Chain & Threat Intelligence
+    - [Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/Seven_Ways_to_Apply_the_Cyber_Kill_Chain_with_a_Threat_Intelligence_Platform.pdf)
+    - [A Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf)
+    - [Lockheed Martin Cyber Capabilities](https://www.lockheedmartin.com/en-us/capabilities/cyber.html)
+- Threat Modeling
+    - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
+    - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
+    - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
+    - [Forbes - Six Key Principles To Building An Effective Cyber Threat Intelligence Program](https://www.forbes.com/sites/forbestechcouncil/2021/12/09/six-key-principles-to-building-an-effective-cyber-threat-intelligence-program/?sh=287dd7153df5)
+    - [10 of the Best Open Source Threat Intelligence Feeds](https://d3security.com/blog/10-of-the-best-open-source-threat-intelligence-feeds/)  
 
 ## Week 3 - Terminal & Bash ##
 
