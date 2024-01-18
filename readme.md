@@ -18,6 +18,10 @@
     - [Qualys Security BLOG](https://blog.qualys.com/) [*](https://www.bing.com/search?pglt=41&q=qualys+security+blog&cvid=1ea25d1c1cd44f22a8a97f42c83e89c2&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGEDSAQg1NTMzajBqMagCALACAA&FORM=ANNTA1&PC=U531&ntref=1)
     - [0xffsec Handbook - The Pentester's Guide](https://0xffsec.com/handbook/)
     - [The dark side of Microsoft Remote Procedure Call protocols](https://redcanary.com/blog/msrpc-to-attack/) [MSRPC Attacks](https://www.bing.com/search?pglt=41&q=msrpc+attacks&cvid=f3b6a00b1d0e4813a43047e1ebff9f0f&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzExOWowajGoAgCwAgA&FORM=ANNTA1&PC=U531)
+    - [Hacker News](https://news.ycombinator.com/)
+    - [The Hacker News](https://thehackernews.com/)
+    - [CyberNews](https://cybernews.com/news/)
+    - [NBC Cyber Security](https://www.nbcnews.com/tech/cyber-security)
 - Certifications & Technical
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
     - Offensive Security Certified Professional[Wikipedia]https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
@@ -40,6 +44,7 @@
     - ethereum contracts [Bing](https://www.bing.com/search?q=ethereum+contracts&form=ANNH01&refig=2185618a6fdc433f928cb35a8342958e&pc=NMTS)
     - denial and deception [Bing](https://www.bing.com/search?pglt=41&q=denial+and+deception&cvid=3b83d07526804ca2a352131d921cd390&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDM0NjNqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
     - dread forum [Bing](https://www.bing.com/search?pglt=41&q=dread+forum&cvid=cd490a2d102448c297760b7dd35a5a98&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDM2MjRqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
+    - Remove your Private Information from the Internet [deleteme.com](https://joindeleteme.com/?utm_source=influencer&utm_campaign=TWIT&coupon=TWIT)
 - People
     - katie nicole red canary technologies[Bing](https://www.bing.com/search?q=katie+nicole+red+canary+technologies&qs=NWU&pq=katie+nicole+red+canary&sk=NW2NWB1&sc=6-23&cvid=EBF1E38C359C45FEB93BF95360C716CD&FORM=QBRE&sp=4&ghc=1&lq=0)
     - robert lee security[Bing](https://www.bing.com/search?pglt=41&q=robert+lee+security&cvid=a45426b8a1da4135bbf6876f943e3ad3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQRRj8VdIBCDUyMzhqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
