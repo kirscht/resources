@@ -94,7 +94,8 @@
     - [nist 800-53 - Security and Privacy Controls for Information Systems and Organizations](https://www.bing.com/search?q=nist+800-53&qs=HS&pq=nist+800-&sk=HS1&sc=10-9&cvid=FB6298DB6FDB438CB977641C56DB5FCD&FORM=QBRE&sp=2&lq=0)
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
-      -  <details open>
+      -
+<details open>
 
   <summary>click to collapse</summary>
 
@@ -109,6 +110,7 @@ Repudiation: The ability of a user or attacker to deny having performed an actio
 Information disclosure: The revelation or distribution of private, confidential, or controlled information to external or unauthorized entities.
 Denial of service (DoS): An attack that attempts to prevent authorized use of a resource. This can be done through flaw exploitation, connection overloading, or traffic flooding.
 Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
+
 </details> 
 
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
