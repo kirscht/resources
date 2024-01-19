@@ -72,7 +72,8 @@
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
     - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
     - [Forbes - Six Key Principles To Building An Effective Cyber Threat Intelligence Program](https://www.forbes.com/sites/forbestechcouncil/2021/12/09/six-key-principles-to-building-an-effective-cyber-threat-intelligence-program/?sh=287dd7153df5)
-    - [10 of the Best Open Source Threat Intelligence Feeds](https://d3security.com/blog/10-of-the-best-open-source-threat-intelligence-feeds/)  
+    - [10 of the Best Open Source Threat Intelligence Feeds](https://d3security.com/blog/10-of-the-best-open-source-threat-intelligence-feeds/)
+    - [Attack Surface Analysis Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)  
 
 ## Week 3 - Terminal & Bash ##
 
@@ -108,3 +109,10 @@
     - [Hacking Google Series (Video)](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
         - [BeyondCorp](https://beyondcorp.com/)
         - [Google Cloud BeyondCorp](https://cloud.google.com/beyondcorp/)
+
+
+- Security+ Resources
+
+- CISSP Resources
+    - Risk Management
+        -  
