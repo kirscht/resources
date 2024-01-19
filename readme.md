@@ -35,10 +35,13 @@
     - [Qualys Channel on BrightTalk](https://www.brighttalk.com/channel/20119/)
       
 - Security Control Frameworks
-    - [Center for Internet Security (CIS) - Benchmarks](http://www.cisecurity.org/cis-benchmarks)
-    - [ISACA - COBIT](https://www.isaca.org/resources/cobit)
-    - [NIST 800-53 Rev. 5, “Security and Privacy Controls for Information Systems and Organizations”](csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+    - [Center for Internet Security (CIS) - Benchmarks](http://www.cisecurity.org/cis-benchmarks) provides OS, application, and hardware security configuration guides.
+    - [ISACA - COBIT](https://www.isaca.org/resources/cobit) is used not only to plan the IT security of an organization but also as a guideline for auditors. COBIT is a widely recognized and respected security control framework.
+    - [NIST 800-53 Rev. 5, “Security and Privacy Controls for Information Systems and Organizations”](csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) contains U.S. government–sourced general recommendations for organizational security.
     - [NIST Risk Management Framework (RMF)](csrc.nist.gov/projects/risk-management/rmf-overview) establishes mandatory requirements for federal agencies. The RMF has six phases: Categorize, Select, Implement, Assess, Authorize, and Monitor.
+    - [NIST Cybersecurity Framework (CSF)](www.nist.gov/cyberframework) is designed for critical infrastructure and commercial organizations and consists of five functions: Identify, Protect, Detect, Respond, and Recover. It is a prescription of operational activities that are to be performed on an ongoing basis for the support and improvement of security over time.
+    - [International Organization for Standardization (ISO)/ International Electrotechnical Commission (IEC) 27000 family group](www.itgovernanceusa.com/iso27000-family) is an international standard that can be the basis of implementing organizational security and related management practices.
+    - [Information Technology Infrastructure Library (ITIL)](itlibrary.org), initially crafted by the British government, is a set of recommended best practices for optimization of IT services to support business growth, transformation, and change. ITIL focuses on understanding how IT and security need to be integrated with and aligned to the objectives of an organization. ITIL and operational processes and is often used as a starting point for the crafting of a customized IT security solution within an established infrastructure.
       
 - Certifications & Technical
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
