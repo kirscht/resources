@@ -1,3 +1,10 @@
+<details>
+<summary>Click to expand</summary>
+
+whatever
+
+</details>
+
 ## Week 1 ##
 
 [Canvas](http://courses.bootcampspot.com/)
