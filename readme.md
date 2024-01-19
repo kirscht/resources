@@ -94,6 +94,23 @@
     - [nist 800-53 - Security and Privacy Controls for Information Systems and Organizations](https://www.bing.com/search?q=nist+800-53&qs=HS&pq=nist+800-&sk=HS1&sc=10-9&cvid=FB6298DB6FDB438CB977641C56DB5FCD&FORM=QBRE&sp=2&lq=0)
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
+      -  <details open>
+
+  <summary>click to collapse</summary>
+
+  this one starts expanded because of the "open"
+
+
+When attempting to inventory and categorize threats, it is often helpful to use a guide or reference. Microsoft developed a threat categorization scheme known as the STRIDE threat model. STRIDE is an acronym standing for the following:
+
+Spoofing: An attack with the goal of gaining access to a target system through the use of a falsified identity. When an attacker spoofs their identity as a valid or authorized entity, they are often able to bypass filters and blockades against unauthorized access.
+Tampering: Any action resulting in unauthorized changes or manipulation of data, whether in transit or in storage.
+Repudiation: The ability of a user or attacker to deny having performed an action or activity by maintaining plausible deniability. Repudiation attacks can also result in innocent third parties being blamed for security violations.
+Information disclosure: The revelation or distribution of private, confidential, or controlled information to external or unauthorized entities.
+Denial of service (DoS): An attack that attempts to prevent authorized use of a resource. This can be done through flaw exploitation, connection overloading, or traffic flooding.
+Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
+</details> 
+
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
     - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
     - [Forbes - Six Key Principles To Building An Effective Cyber Threat Intelligence Program](https://www.forbes.com/sites/forbestechcouncil/2021/12/09/six-key-principles-to-building-an-effective-cyber-threat-intelligence-program/?sh=287dd7153df5)
