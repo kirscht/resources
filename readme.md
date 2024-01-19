@@ -67,6 +67,9 @@
     - [Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/Seven_Ways_to_Apply_the_Cyber_Kill_Chain_with_a_Threat_Intelligence_Platform.pdf)
     - [A Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf)
     - [Lockheed Martin Cyber Capabilities](https://www.lockheedmartin.com/en-us/capabilities/cyber.html)
+- Risk Management
+    - [ISO/IEC 27005 "Information technology — Security techniques — Information security risk management"](https://en.wikipedia.org/wiki/ISO/IEC_27005)
+        - [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
