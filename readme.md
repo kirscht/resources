@@ -1,7 +1,8 @@
-<details>
-<summary>Click to expand</summary>
+ <details open>
 
-whatever
+  <summary>click to collapse</summary>
+
+  this one starts expanded because of the "open"
 
 </details>
 
