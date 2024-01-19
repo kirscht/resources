@@ -70,6 +70,7 @@
 - Risk Management
     - [ISO/IEC 27005 "Information technology — Security techniques — Information security risk management"](https://en.wikipedia.org/wiki/ISO/IEC_27005)
         - [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
+    - [NIST 800-30r1 - Guide for Conducting Risk Assessments](https://www.bing.com/search?q=NIST+800-30r1&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=nist+800-30r1&sc=4-13&sk=&cvid=72A35E87D6AD4D7C90EBCAC15618D2B7&ghsh=0&ghacc=0&ghpl=)
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
