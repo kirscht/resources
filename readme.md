@@ -8,6 +8,7 @@
     - The Internet Bug Bounty[HackerOne](https://www.hackerone.com/internet-bug-bounty)
     - [BugCrowd](https://www.bugcrowd.com/)
     - Beyond Bug Bounty [synack](https://www.synack.com/videos/beyond-bug-bounty/)
+      
 - Daily Resources, Keeping Up with Cyber
     - Great Daily News Source [All Infosec News](https://allinfosecnews.com/)
     - [Bleeping Computer](https://www.bleepingcomputer.com/)
@@ -24,8 +25,13 @@
     - [NBC Cyber Security](https://www.nbcnews.com/tech/cyber-security)
     - [The Independent Cyber News](https://www.independent.co.uk/topic/cyber-security)
     - [Qualys Channel on BrightTalk](https://www.brighttalk.com/channel/20119/)
-- Security Frameworks
-    - [ISACA - COBIT](https://www.isaca.org/resources/cobit)  
+      
+- Security Control Frameworks
+    - [Center for Internet Security (CIS) - Benchmarks](http://www.cisecurity.org/cis-benchmarks)
+    - [ISACA - COBIT](https://www.isaca.org/resources/cobit)
+    - [NIST 800-53 Rev. 5, “Security and Privacy Controls for Information Systems and Organizations”](csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+    - [NIST Risk Management Framework (RMF)](csrc.nist.gov/projects/risk-management/rmf-overview) establishes mandatory requirements for federal agencies. The RMF has six phases: Categorize, Select, Implement, Assess, Authorize, and Monitor.
+      
 - Certifications & Technical
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
     - Offensive Security Certified Professional[Wikipedia]https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
