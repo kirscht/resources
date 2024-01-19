@@ -97,18 +97,20 @@
       -
 <details open>
 
-  <summary>click to collapse</summary>
-
-  this one starts expanded because of the "open"
+  <summary>S.T.R.I.D.E. Model (click to expand)</summary>
 
 
-When attempting to inventory and categorize threats, it is often helpful to use a guide or reference. Microsoft developed a threat categorization scheme known as the STRIDE threat model. STRIDE is an acronym standing for the following:
+When attempting to inventory and categorize threats, using a guide or reference is often helpful. Microsoft developed a threat categorization scheme known as the STRIDE threat model. STRIDE is an acronym standing for the following:
 
-Spoofing: An attack with the goal of gaining access to a target system through the use of a falsified identity. When an attacker spoofs their identity as a valid or authorized entity, they are often able to bypass filters and blockades against unauthorized access.
-Tampering: Any action resulting in unauthorized changes or manipulation of data, whether in transit or in storage.
+Spoofing: An attack to gain access to a target system through a falsified identity. When attackers spoof their identity as a valid or authorized entity, they can bypass filters and blockades against unauthorized access.
+
+Tampering: Any action resulting in unauthorized changes or data manipulation, whether in transit or storage.
 Repudiation: The ability of a user or attacker to deny having performed an action or activity by maintaining plausible deniability. Repudiation attacks can also result in innocent third parties being blamed for security violations.
+
 Information disclosure: The revelation or distribution of private, confidential, or controlled information to external or unauthorized entities.
-Denial of service (DoS): An attack that attempts to prevent authorized use of a resource. This can be done through flaw exploitation, connection overloading, or traffic flooding.
+
+Denial of service (DoS): An attack that attempts to prevent authorized resource use. This can be done through flaw exploitation, connection overloading, or traffic flooding.
+
 Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
 
 </details> 
