@@ -95,7 +95,7 @@
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
       - <details open>
-        <summary>S.T.R.I.D.E. Model (click to expand)</summary>
+<summary>S.T.R.I.D.E. Model (click to expand)</summary>
 
 
 When attempting to inventory and categorize threats, using a guide or reference is often helpful. Microsoft developed a threat categorization scheme known as the STRIDE threat model. STRIDE is an acronym standing for the following:
