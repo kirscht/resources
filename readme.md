@@ -97,22 +97,19 @@
       - <details open>
          <summary>S.T.R.I.D.E. Model (click to expand)</summary>
          
-         
          When attempting to inventory and categorize threats, using a guide or reference is often helpful. Microsoft developed a threat categorization scheme known as the STRIDE threat model. STRIDE is an acronym standing for the following:
          
-         Spoofing: An attack to gain access to a target system through a falsified identity. When attackers spoof their identity as a valid or authorized entity, they can bypass filters and blockades against unauthorized access.
+         - Spoofing: An attack to gain access to a target system through a falsified identity. When attackers spoof their identity as a valid or authorized entity, they can bypass filters and blockades against unauthorized access.
          
-         Tampering: Any action resulting in unauthorized changes or data manipulation, whether in transit or storage.
+         - Tampering: Any action resulting in unauthorized changes or data manipulation, whether in transit or storage.
          Repudiation: The ability of a user or attacker to deny having performed an action or activity by maintaining plausible deniability. Repudiation attacks can also result in innocent third parties being blamed for security violations.
          
-         Information disclosure: The revelation or distribution of private, confidential, or controlled information to external or unauthorized entities.
+         - Information disclosure: The revelation or distribution of private, confidential, or controlled information to external or unauthorized entities.
          
-         Denial of service (DoS): An attack that attempts to prevent authorized resource use. This can be done through flaw exploitation, connection overloading, or traffic flooding.
+         - Denial of service (DoS): An attack that attempts to prevent authorized resource use. This can be done through flaw exploitation, connection overloading, or traffic flooding.
          
-         Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
-
+         - Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
    </details> 
-
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
     - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
     - [Forbes - Six Key Principles To Building An Effective Cyber Threat Intelligence Program](https://www.forbes.com/sites/forbestechcouncil/2021/12/09/six-key-principles-to-building-an-effective-cyber-threat-intelligence-program/?sh=287dd7153df5)
