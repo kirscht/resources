@@ -111,7 +111,7 @@ Denial of service (DoS): An attack that attempts to prevent authorized resource 
 
 Elevation of privilege: An attack where a limited user account is transformed into an account with greater privileges, powers, and access.
 
-</details> 
+        </details> 
 
     - [ISACA - Cyberthreat Intelligence as a Proactive Extension to Incident Response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
     - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
