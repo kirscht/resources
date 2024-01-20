@@ -94,8 +94,7 @@
     - [nist 800-53 - Security and Privacy Controls for Information Systems and Organizations](https://www.bing.com/search?q=nist+800-53&qs=HS&pq=nist+800-&sk=HS1&sc=10-9&cvid=FB6298DB6FDB438CB977641C56DB5FCD&FORM=QBRE&sp=2&lq=0)
 - Threat Modeling
     - [CSF Tools - STRIDE-LM Threat Model](https://csf.tools/reference/stride-lm/)
-      -
-<details open>
+      - <details open>
 
   <summary>S.T.R.I.D.E. Model (click to expand)</summary>
 
