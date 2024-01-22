@@ -33,6 +33,7 @@
     - [NBC Cyber Security](https://www.nbcnews.com/tech/cyber-security)
     - [The Independent Cyber News](https://www.independent.co.uk/topic/cyber-security)
     - [Qualys Channel on BrightTalk](https://www.brighttalk.com/channel/20119/)
+    - [(CIS) Center for Internet Security - The latest information on known vulnerabilities in popular software and systems.](https://www.cisecurity.org/advisory)
       
 - Security Control Frameworks
     - [Center for Internet Security (CIS) - Benchmarks](http://www.cisecurity.org/cis-benchmarks) provides OS, application, and hardware security configuration guides.
