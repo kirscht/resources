@@ -136,6 +136,11 @@
     - [CyberArk Security Fundamentals](https://docs.cyberark.com/PAS/Latest/en/Content/Security/Security%20Fundamentals-Introduction.htm?tocpath=Security%7C_____1)
     - [Microsoft Defender for Linux](https://www.bing.com/search?pglt=41&q=microsoft+defender+for+linux&cvid=ee174b7899864be39286db01e15f88db&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDY1NDdqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)
     - [Security+ Boot Process](https://www.bing.com/search?pglt=41&q=security%2B+boot+process&cvid=617eca8290bf491ca42a01d1e071c021&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg5MDEzajBqMagCALACAA&FORM=ANNTA1&PC=U531)
+ - Learning & Resources
+    - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+    - [Bash scripting cheatsheet](https://devhints.io/bash)
+    - [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
+    - [Bash Scripting – Introduction to Bash and Bash Scripting](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
 
 ## Week 13 - Cloud Security ##
 -   Edge Setup
