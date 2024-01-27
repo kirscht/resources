@@ -71,6 +71,11 @@
     - denial and deception [Bing](https://www.bing.com/search?pglt=41&q=denial+and+deception&cvid=3b83d07526804ca2a352131d921cd390&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDM0NjNqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
     - dread forum [Bing](https://www.bing.com/search?pglt=41&q=dread+forum&cvid=cd490a2d102448c297760b7dd35a5a98&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQDIHCAkQRRj8VdIBCDM2MjRqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
     - Remove your Private Information from the Internet [deleteme.com](https://joindeleteme.com/?utm_source=influencer&utm_campaign=TWIT&coupon=TWIT)
+- News
+    -  [Breaking the Phishing Chain: A Whiteboard Session on Effective Security Tactics](https://www.bleepingcomputer.com/news/security/pwn2own-automotive-13m-for-49-zero-days-tesla-hacked-twice/?fbclid=IwAR3fE_yh29OfyBQTq4pU2x9Ar7QavqFKCU5HPuhWwjSWbYZPC2kNWb0AWQw)
+    -  [FBI Quarterly: Cryptocurrency Confidence Scams – Are you a victim ?](https://ucivirtcyberp-tqu6575.slack.com/archives/C065GBHU210/p1706211526258219)
+    -  [Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction](https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/)
+    -  [Pwn2Own Automotive: $1.3M for 49 zero-days, Tesla Hacked Twice](https://www.bleepingcomputer.com/news/security/pwn2own-automotive-13m-for-49-zero-days-tesla-hacked-twice/?fbclid=IwAR3fE_yh29OfyBQTq4pU2x9Ar7QavqFKCU5HPuhWwjSWbYZPC2kNWb0AWQw)
 - People
     - katie nicole red canary technologies[Bing](https://www.bing.com/search?q=katie+nicole+red+canary+technologies&qs=NWU&pq=katie+nicole+red+canary&sk=NW2NWB1&sc=6-23&cvid=EBF1E38C359C45FEB93BF95360C716CD&FORM=QBRE&sp=4&ghc=1&lq=0)
     - robert lee security[Bing](https://www.bing.com/search?pglt=41&q=robert+lee+security&cvid=a45426b8a1da4135bbf6876f943e3ad3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQRRj8VdIBCDUyMzhqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
