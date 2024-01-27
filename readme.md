@@ -48,6 +48,10 @@
     - Cybersecurity Training, Degrees & Resources[sans.org](ttps://www.sans.org)
     - Offensive Security Certified Professional[Wikipedia]https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
     - Bachelor's Degree in Cyber Intelligence and Security | Embry-Riddle Aeronautical University [erau.edu](https://erau.edu/degrees/bachelor/cyber-intelligence-security)
+    - CISSP Certification
+     - [Luke Ahmed's Study Notes and Theory](https://www.studynotesandtheory.com/)
+     - [CISSP Study Notes and Theory (Videos)](https://www.youtube.com/c/StudyNotesandTheory/videos)
+     - [BrightTalk Channels](https://www.brighttalk.com/channels)
 - Hacking & Penetration Testing Tools
     - [Hack the Box](https://www.hackthebox.com/)
     - [Try Hack Me](https://tryhackme.com/)
@@ -163,3 +167,10 @@
 - CISSP Resources
     - Risk Management
         -  
+
+## Articles ##
+- [Top 10 Data Leak web sites (hidden services) of Dark web in 2022](https://medium.com/@cyberblogger007/top-10-data-leak-web-sites-hidden-services-of-dark-web-in-2022-7ceb3972f6cb)
+
+## Webinars ##
+- [Encore - Introduction to Global Espionage & Intelligence Services- Part 1: US Intelligence](https://register.gotowebinar.com/register/5658948190247489888)
+- [FBI Quarterly: Cryptocurrency Confidence Scams – Are you a victim ?](https://register.gotowebinar.com/register/7031169488279352158)
