@@ -77,7 +77,10 @@
     -  [Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction](https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/)
     -  [Pwn2Own Automotive: $1.3M for 49 zero-days, Tesla Hacked Twice](https://www.bleepingcomputer.com/news/security/pwn2own-automotive-13m-for-49-zero-days-tesla-hacked-twice/?fbclid=IwAR3fE_yh29OfyBQTq4pU2x9Ar7QavqFKCU5HPuhWwjSWbYZPC2kNWb0AWQw)
     -  [Microsoft Ignite - New Era Threat Actor: A Year Battling Octo Tempest | BRK266](https://www.youtube.com/watch?v=KSEAvAVZMlA&t=23s)
-    -  
+    -  [What is generative AI and how does it work? – The Turing Lectures with Mirella Lapata](https://www.youtube.com/watch?v=_6R7Ym6Vy_I)
+    -  [What's the future for generative AI? - The Turing Lectures with Mike Wooldridge](https://www.youtube.com/watch?v=b76gsOSkHB4)
+    -  [Michio Kaku | Quantum Supremacy | Talks at Google](https://www.youtube.com/watch?v=_OjRClPzU6Y)
+   
 - People
     - katie nicole red canary technologies[Bing](https://www.bing.com/search?q=katie+nicole+red+canary+technologies&qs=NWU&pq=katie+nicole+red+canary&sk=NW2NWB1&sc=6-23&cvid=EBF1E38C359C45FEB93BF95360C716CD&FORM=QBRE&sp=4&ghc=1&lq=0)
     - robert lee security[Bing](https://www.bing.com/search?pglt=41&q=robert+lee+security&cvid=a45426b8a1da4135bbf6876f943e3ad3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQRRj8VdIBCDUyMzhqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
