@@ -188,13 +188,13 @@
 
 ## DarkNet Recon ##
 - [DarkNets.org](https://darknets.org)
- - [DarkNets.org - Resources](https://darknets.org/resources)
- - [discord](http://darknets.org/discord/)
- - [Telegram](http://darknets.org/telegram/)
+  - [DarkNets.org - Resources](https://darknets.org/resources)
+  - [discord](http://darknets.org/discord/)
+  - [Telegram](http://darknets.org/telegram/)
 - [TorProject.org](https://www.torproject.org/)
- - [Tor Metrics](https://metrics.torproject.org/)
+  - [Tor Metrics](https://metrics.torproject.org/)
 - Research
- - [Dark.fail](https://dark.fail/)
- - [Tor.link](https://tor.link/)
+  - [Dark.fail](https://dark.fail/)
+  - [Tor.link](https://tor.link/)
 - [SecOps Institute](https://secops.institute/)
- - [GitHub](https://github.com/SecOps-Institute)
+  - [GitHub](https://github.com/SecOps-Institute)
