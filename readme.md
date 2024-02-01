@@ -188,7 +188,7 @@
 
 ## DarkNet Recon ##
 - [DarkNets.org](https://darknets.org)
-  - [DarkNets.org - Resources](https://darknets.org/resources)
+  - [Resources](https://darknets.org/resources)
   - [discord](http://darknets.org/discord/)
   - [Telegram](http://darknets.org/telegram/)
 - [TorProject.org](https://www.torproject.org/)
@@ -198,3 +198,4 @@
   - [Tor.link](https://tor.link/)
 - [SecOps Institute](https://secops.institute/)
   - [GitHub](https://github.com/SecOps-Institute)
+  - [Training](https://secops.institute/soc-training)
