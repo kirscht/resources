@@ -190,6 +190,7 @@
 - [DarkNets.org](https://darknets.org)
   - [Resources](https://darknets.org/resources)
   - [discord](http://darknets.org/discord/)
+  - [Platform](https://darknets.org/platform/)
   - [Telegram](http://darknets.org/telegram/)
 - [TorProject.org](https://www.torproject.org/)
   - [Tor Metrics](https://metrics.torproject.org/)
