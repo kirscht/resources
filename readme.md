@@ -199,3 +199,10 @@
 - [SecOps Institute](https://secops.institute/)
   - [GitHub](https://github.com/SecOps-Institute)
   - [Training](https://secops.institute/soc-training)
+
+## JWT & OAuth 2.0 ## 
+- [Authlib](https://authlib.org/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [JWT Generator](https://www.scottbrady91.com/tools/jwt)
+- [jwt.io](https://jwt.io/)
+- [jwt.ms](https://jwt.ms/)
