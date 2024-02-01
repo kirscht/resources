@@ -184,3 +184,17 @@
 ## Webinars ##
 - [Encore - Introduction to Global Espionage & Intelligence Services- Part 1: US Intelligence](https://register.gotowebinar.com/register/5658948190247489888)
 - [FBI Quarterly: Cryptocurrency Confidence Scams – Are you a victim ?](https://register.gotowebinar.com/register/7031169488279352158)
+- 
+
+## DarkNet Recon ##
+- [DarkNets.org](https://darknets.org)
+ - [DarkNets.org - Resources](https://darknets.org/resources)
+ - [discord](http://darknets.org/discord/)
+ - [Telegram](http://darknets.org/telegram/)
+- [TorProject.org](https://www.torproject.org/)
+ - [Tor Metrics](https://metrics.torproject.org/)
+- Research
+ - [Dark.fail](https://dark.fail/)
+ - [Tor.link](https://tor.link/)
+- [SecOps Institute](https://secops.institute/)
+ - [GitHub](https://github.com/SecOps-Institute)
