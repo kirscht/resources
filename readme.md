@@ -187,12 +187,27 @@
 - 
 
 ## DarkNet Recon ##
+- Alternate Identities and Personas
+  - [Businer Identity Generator](https://businer.com/)
+  - [Cloud Machines](https://darknets.org/cloud-machines/)
+  - [Fake Name Generator](https://www.fakenamegenerator.com/)
+  - [Sock Puppet](https://darknets.org/sock-puppet/)
+  - [This Person Does not Exist - Random Face Generator](https://this-person-does-not-exist.com/en)
 - [DarkNets.org](https://darknets.org)
+  - [Ancillary](https://darknets.org/ancillary/)
   - [Resources](https://darknets.org/resources)
+  - [Dark Web Monitoring](https://darknets.org/dark-web-monitoring/)
+  - [Dark Web Tools](https://darknets.org/darkwebtools/)
   - [discord](http://darknets.org/discord/)
+  - [Evil AI](https://darknets.org/ai-dark-artificial-intelligence/)
+  - [Maltego](https://darknets.org/maltego/)
   - [Platform](https://darknets.org/platform/)
+  - [Sock Puppet](https://darknets.org/sock-puppet/)
+  - [Stealer Logs](https://darknets.org/stealerlogs/)
   - [Telegram](http://darknets.org/telegram/)
   - [Transforms](https://darknets.org/transforms/)
+- Indexes
+  - [Yandex](https://yandex.com/)
 - [TorProject.org](https://www.torproject.org/)
   - [Tor Metrics](https://metrics.torproject.org/)
 - Research
