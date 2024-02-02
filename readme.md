@@ -192,10 +192,13 @@
   - [discord](http://darknets.org/discord/)
   - [Platform](https://darknets.org/platform/)
   - [Telegram](http://darknets.org/telegram/)
+  - [Transforms](https://darknets.org/transforms/)
 - [TorProject.org](https://www.torproject.org/)
   - [Tor Metrics](https://metrics.torproject.org/)
 - Research
   - [Dark.fail](https://dark.fail/)
+  - [DREAD Dark Search](https://tor.link/site/tape/2450084?q=dread) Use in TOR only
+  - [Leakix](https://leakix.net/)
   - [Tor.link](https://tor.link/)
 - [SecOps Institute](https://secops.institute/)
   - [GitHub](https://github.com/SecOps-Institute)
