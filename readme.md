@@ -195,6 +195,7 @@
   - [This Person Does not Exist - Random Face Generator](https://this-person-does-not-exist.com/en)
 - [DarkNets.org](https://darknets.org)
   - [Ancillary](https://darknets.org/ancillary/)
+  - [Breach Forums](https://darknets.org/breaches/)
   - [Resources](https://darknets.org/resources)
   - [Dark Web Monitoring](https://darknets.org/dark-web-monitoring/)
   - [Dark Web Tools](https://darknets.org/darkwebtools/)
@@ -202,11 +203,13 @@
   - [Evil AI](https://darknets.org/ai-dark-artificial-intelligence/)
   - [Maltego](https://darknets.org/maltego/)
   - [Platform](https://darknets.org/platform/)
+  - [Search Engines](https://darknets.org/search-engines/)
   - [Sock Puppet](https://darknets.org/sock-puppet/)
   - [Stealer Logs](https://darknets.org/stealerlogs/)
   - [Telegram](http://darknets.org/telegram/)
   - [Transforms](https://darknets.org/transforms/)
 - Indexes
+  - [Baidu](https://www.baidu.com/)
   - [Yandex](https://yandex.com/)
 - [TorProject.org](https://www.torproject.org/)
   - [Tor Metrics](https://metrics.torproject.org/)
@@ -218,6 +221,9 @@
 - [SecOps Institute](https://secops.institute/)
   - [GitHub](https://github.com/SecOps-Institute)
   - [Training](https://secops.institute/soc-training)
+- Tools
+  - [Spider Proxies](https://www.bing.com/search?pglt=41&q=spider+proxies&cvid=208e81f7117a47a5bed2c05362c7465e&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhA0gEINjk4M2owajGoAgCwAgA&FORM=ANNTA1&PC=U531)
+  - [VPN Book](https://www.vpnbook.com/)
 
 ## JWT & OAuth 2.0 ## 
 - [Authlib](https://authlib.org/)
