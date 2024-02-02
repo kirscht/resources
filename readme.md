@@ -243,3 +243,6 @@
 - [Stratus Red Team - Github](https://github.com/DataDog/stratus-red-team)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) [sysmon](https://www.bing.com/search?pglt=41&q=sysmon&cvid=9a384e952cec41098ac2a351c6600305&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgzMzkwajBqMagCALACAA&FORM=ANNTA1&PC=U531&ntref=1)
 - [Vectr](https://vectr.io/)
+
+- Red Team Operations
+ - [Red Team Adversary Emulation With Caldera](https://www.youtube.com/watch?v=EIHLXWnK1Dw)
