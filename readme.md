@@ -231,3 +231,15 @@
 - [JWT Generator](https://www.scottbrady91.com/tools/jwt)
 - [jwt.io](https://jwt.io/)
 - [jwt.ms](https://jwt.ms/)
+
+## Read, Purple, Blue Teaming ##
+- [Automated Adversaries](https://www.bing.com/search?q=automated+adversaries&qs=n&form=QBRE&sp=-1&lq=0&pq=automated+adversaries&sc=10-21&sk=&cvid=53A0AFD1F06341B1B97CB0F0CC0D0C90&ghsh=0&ghacc=0&ghpl=&ntref=1)
+- [AutomatedEmulation](https://github.com/iknowjason/AutomatedEmulation/blob/master/files/bas/abilities/lateral-movement/79fd76dc-eaea-415e-8e9f-255050ac5d3f.yml)
+- [Invoke-AtomicRedTeam](https://github.com/redcanaryco/invoke-atomicredteam/wiki/Execut)
+- [Mitre - Automated Adversary Emulation: A Case for Planning and Acting with Unknowns](https://www.mitre.org/sites/default/files/2021-11/prs-18-0944-1-automated-adversary-emulation-planning-acting.pdf)
+- [OpsLab](https://github.com/iknowjason/OperatorLab)
+- [PurpleCloud - Hybrid + Identity Cyber Range](https://www.purplecloud.network/)
+- [Stratus Red Team](https://stratus-red-team.cloud/)
+- [Stratus Red Team - Github](https://github.com/DataDog/stratus-red-team)
+- [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) [sysmon](https://www.bing.com/search?pglt=41&q=sysmon&cvid=9a384e952cec41098ac2a351c6600305&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgzMzkwajBqMagCALACAA&FORM=ANNTA1&PC=U531&ntref=1)
+- [Vectr](https://vectr.io/)
