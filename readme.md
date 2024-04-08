@@ -171,7 +171,11 @@
         - [BeyondCorp](https://beyondcorp.com/)
         - [Google Cloud BeyondCorp](https://cloud.google.com/beyondcorp/)
 
-
+## Week 16 Pentesting ##
+- Resources
+ - [Mitre - Att&ck](https://attack.mitre.org/)
+ - [Common Attack Pattern Enumeration and Classification](https://capec.mitre.org/)
+ - [Mitre - Common Weakness Enumeration](https://cwe.miter.org)
 - Security+ Resources
 
 - CISSP Resources
