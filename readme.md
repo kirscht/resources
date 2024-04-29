@@ -6,7 +6,7 @@
 
 </details>
 
-## Week 1 ##
+## 1 Cybersecurity 101 ##
 
 [Canvas](http://courses.bootcampspot.com/)
 [Installing Zoom on Linux](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063458)
@@ -86,7 +86,7 @@
     - robert lee security[Bing](https://www.bing.com/search?pglt=41&q=robert+lee+security&cvid=a45426b8a1da4135bbf6876f943e3ad3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQRRj8VdIBCDUyMzhqMGoxqAIAsAIA&FORM=ANNAB1&PC=NMTS)
     - [Podcast: Know Your Adversaries and Where They Trade, To Stop Cyber Attacks](https://www.brighttalk.com/webcast/19179/601913?utm_source=brighttalk-sharing&utm_medium=web&utm_campaign=linkshare)
 
-## Week 2 - (GRC) Governance, Risk Management, & Compliance ##
+## 2 - (GRC) Governance, Risk Management, & Compliance ##
 
 - Books and Resources
     - Building a Cyber Risk Management Program, Author Brian Allen, Brandon Bapst, Terry Allan Hicks
@@ -131,7 +131,7 @@
     - [10 of the Best Open Source Threat Intelligence Feeds](https://d3security.com/blog/10-of-the-best-open-source-threat-intelligence-feeds/)
     - [Attack Surface Analysis Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)  
 
-## Week 3 - Terminal & Bash ##
+## 3 - Bash & ZSH Scripting ##
 
 - Linux Distributions
     - Ubuntu Desktop [Downloads](https://ubuntu.com/download)
@@ -156,27 +156,69 @@
     - [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
     - [Bash Scripting – Introduction to Bash and Bash Scripting](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
 
+## 4 - Linux System Administration ##
+
+## 5 - Linux Archiving and Logging Data ##
+
+## 6 - Bash Scripting and Programming ##
+
+## 7 - Windows Administration and Hardening ##
+  -  [How Does Kerberos Work? The Authentication Protocol Explained - freecodecamp.com](https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/)
+  -  [NTLM Overview - Microsoft Learning](https://learn.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview)
+  -  [NTLM Explained: Definition, Protocols & More - by Crowdstrike](https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/)
+  -  [Pass the Hash - Wikipedia](https://en.wikipedia.org/wiki/Pass_the_hash)
+  -  [Windows Hello](https://www.bing.com/search?pglt=41&q=windows+hello+for+business&cvid=5618892344904ad2b30272a9607b705e&gs_lcrp=EgZjaHJvbWUqBggBEAAYQDIGCAAQRRg5MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCTEwMTE2ajBqMagCALACAA&FORM=ANNTA1&PC=U531)
+
+## 8 - Networking Fundamentals ##
+  -  [12.3.3. Example Zone File Red Hat Enterprise Linux 4 | Red Hat Customer Portal
+](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-zone-examples)
+
+## 10 - Cryptography ##
+
+## 11 - Network Security ##
+  -  [Palo Alto Capabilities](https://www.bing.com/search?pglt=41&q=palo+alto+capabilities&cvid=d5a4c17f62ba407f823b3b411e987ebc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQg0NDE4ajBqMagCALACAA&FORM=ANNTA1&PC=U531&showconv=0)
+
+## 12 - Web Development ##
+
+## 13 - Virtualization ##
+  -  [Building Microservices - O'Reilly Online Learning](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+  -  [How to Build Docker Images with Dockerfile](https://linuxize.com/post/how-to-build-docker-images-with-dockerfile/)
+  -  [Monolith to Microservices - O'Reilly Online Learning](https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/)
+  -  [How To Set Up Ansible Inventories](https://www.digitalocean.com/community/tutorials/how-to-set-up-ansible-inventories)
+
 ## Week 13 - Cloud Security ##
 -   Edge Setup
     - Manage Profiles [Profiles](edge://settings/profiles)
 - Cloud Security
-    - [Virtual Network Service Tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)     
+  -  [Serverless Fundamentals for Microservices: An Ingroduction to Core Concepts and Best Practices - O'Reilly Online Learning](https://learning.oreilly.com/videos/serverless-fundamentals-for/9781492039006/9781492039006-video319633/)
+  -  [Srverless Playlist - O'Reilly Online Learning](https://learning.oreilly.com/playlists/7a77d673-faf0-40e6-9161-79556029fe0e/)
+  - [Virtual Network Service Tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)     
+  
 
-## Week 15 Web Vulnerabilities and Hardening ##
+## 15 - Web Vulnerabilities and Hardening ##
 - Resources
-    - [Crowdstrike Global Threat Report](https://www.crowdstrike.com/global-threat-report/)
-    - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - [Microsoft Edge AddOn: Cookie-Editor](https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi)
+  - [edge://extensions/?id=neaplmfkghagebokkhpjpoebhdledlfi](edge://extensions/?id=neaplmfkghagebokkhpjpoebhdledlfi)
+  - [Crowdstrike Global Threat Report](https://www.crowdstrike.com/global-threat-report/)
+  - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - Videos
-    - [Hacking Google Series (Video)](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
-        - [BeyondCorp](https://beyondcorp.com/)
-        - [Google Cloud BeyondCorp](https://cloud.google.com/beyondcorp/)
+  - [Hacking Google Series (Video)](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+      - [BeyondCorp](https://beyondcorp.com/)
+      - [Google Cloud BeyondCorp](https://cloud.google.com/beyondcorp/)
 
-## Week 16 Pentesting ##
+## 16 Pentesting ##
 - Resources
   - [Mitre - Att&ck](https://attack.mitre.org/)
   - [Common Attack Pattern Enumeration and Classification](https://capec.mitre.org/)
   - [Mitre - Common Weakness Enumeration](https://cwe.miter.org)
+  - [Know-b-4 Security Tools](https://www.knowbe4.com/)
 
+## 17 - SIEMs ##
+
+## 21 - Digital Forensics ##
+
+## 23 - Cybersecurity Careers ##
+  -  [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
 - Security+ Resources
 
