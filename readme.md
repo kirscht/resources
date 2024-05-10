@@ -51,6 +51,7 @@
     - CISSP Certification
      - [Luke Ahmed's Study Notes and Theory](https://www.studynotesandtheory.com/)
      - [CISSP Study Notes and Theory (Videos)](https://www.youtube.com/c/StudyNotesandTheory/videos)
+     - [Larry Greenblatt - CISSP Training]([https://www.bing.com/search?q=larry+greenblatt&form=ANNTH1&refig=4be93e7babde453690f3b2a8f242d4ad&pc=U531ƒth](https://www.bing.com/search?q=larry+greenblatt&form=ANNTH1&refig=4be93e7babde453690f3b2a8f242d4ad&pc=U531))
      - [BrightTalk Channels](https://www.brighttalk.com/channels)
 - Hacking & Penetration Testing Tools
     - [Hack the Box](https://www.hackthebox.com/)
@@ -294,3 +295,8 @@
 
 - Red Team Operations
  - [Red Team Adversary Emulation With Caldera](https://www.youtube.com/watch?v=EIHLXWnK1Dw)
+
+
+ ## Email Security ##
+ - [Proton Mail](https://proton.me)
+ - [Simple Login](https://app.simplelogin.io/)
