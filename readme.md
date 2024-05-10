@@ -130,7 +130,8 @@
     - [ISACA - How to Use Cyberthreat Intelligence to Proactively Reduce Cyberrisk](https://www.isaca.org/resources/news-and-trends/industry-news/2022/how-to-use-cyberthreat-intelligence-to-proactively-reduce-cyberrisk)
     - [Forbes - Six Key Principles To Building An Effective Cyber Threat Intelligence Program](https://www.forbes.com/sites/forbestechcouncil/2021/12/09/six-key-principles-to-building-an-effective-cyber-threat-intelligence-program/?sh=287dd7153df5)
     - [10 of the Best Open Source Threat Intelligence Feeds](https://d3security.com/blog/10-of-the-best-open-source-threat-intelligence-feeds/)
-    - [Attack Surface Analysis Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)  
+    - [Attack Surface Analysis Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)
+    - [Microsoft Threat Modeling Tool](https://www.bing.com/videos/search?q=microsoft+threat+modeling+tool&FORM=HDRSC6)
 
 ## 3 - Bash & ZSH Scripting ##
 
@@ -213,6 +214,8 @@
   - [Common Attack Pattern Enumeration and Classification](https://capec.mitre.org/)
   - [Mitre - Common Weakness Enumeration](https://cwe.miter.org)
   - [Know-b-4 Security Tools](https://www.knowbe4.com/)
+  - [AttackIQ](https://www.attackiq.com/)
+  - [SafeBreach](https://www.safebreach.com/)
 
 ## 17 - SIEMs ##
 
