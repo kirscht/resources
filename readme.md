@@ -195,7 +195,8 @@
 - Cloud Security
   -  [Serverless Fundamentals for Microservices: An Ingroduction to Core Concepts and Best Practices - O'Reilly Online Learning](https://learning.oreilly.com/videos/serverless-fundamentals-for/9781492039006/9781492039006-video319633/)
   -  [Srverless Playlist - O'Reilly Online Learning](https://learning.oreilly.com/playlists/7a77d673-faf0-40e6-9161-79556029fe0e/)
-  - [Virtual Network Service Tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)     
+  - [Virtual Network Service Tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
+  - [AWS Security Services Best Practices](https://aws.github.io/aws-security-services-best-practices/)   
   
 
 ## 15 - Web Vulnerabilities and Hardening ##
