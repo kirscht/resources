@@ -205,6 +205,9 @@
   - [edge://extensions/?id=neaplmfkghagebokkhpjpoebhdledlfi](edge://extensions/?id=neaplmfkghagebokkhpjpoebhdledlfi)
   - [Crowdstrike Global Threat Report](https://www.crowdstrike.com/global-threat-report/)
   - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- Free Student Services
+  - [Azure for Students](https://azure.microsoft.com/en-us/free/students/
+  - [AWS Educate](https://aws.amazon.com/education/awseducate/ 
 - Videos
   - [Hacking Google Series (Video)](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
       - [BeyondCorp](https://beyondcorp.com/)
