@@ -221,13 +221,20 @@
   - [Know-b-4 Security Tools](https://www.knowbe4.com/)
   - [AttackIQ](https://www.attackiq.com/)
   - [SafeBreach](https://www.safebreach.com/)
+  - [How to Create Sites in Burp Suite Enterprise Edition](https://www.youtube.com/watch?v=nYf-CaF9ZWY&list=PLoX0sUafNGbHNl8CYiUxCn26XPv8XFbZD)
+  - [How to Create Scans in Burp Suite Enterprise Edition](https://www.youtube.com/watch?v=57559arUG3c&list=PLoX0sUafNGbHNl8CYiUxCn26XPv8XFbZD)
+  - [Install Burp Suite Enterprise Edition Using Default Settings](https://www.youtube.com/watch?v=8u13MINq6BA&list=PLoX0sUafNGbFs6hiR_AH_PckkCMMm4zm7)
+  - [How to Integrate Burp Suite Enterprise Edition with your CI/CD Workflow](https://www.youtube.com/watch?v=0aFQ63bOhqY)
 
 ## 17 - SIEMs ##
+- Vulnerability Management
+ - [Qualys - Deploying Cloud Agents for VMDR](https://www.youtube.com/watch?v=35WBxjaTssc)
 
 ## 21 - Digital Forensics ##
 
 ## 23 - Cybersecurity Careers ##
   -  [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+  -  [What are problem-solving skills?](https://www.indeed.com/career-advice/resumes-cover-letters/problem-solving-skills-resume)
 
 - Security+ Resources
 
